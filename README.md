@@ -27,7 +27,7 @@ Built with Next.js, Three.js, and any OpenAI-compatible API.
 
 ```bash
 git clone https://github.com/AbhishekSharma55/llm-illustration.git
-cd llm-neural-visualizer
+cd llm-illustration
 ```
 
 2. Install dependencies:
